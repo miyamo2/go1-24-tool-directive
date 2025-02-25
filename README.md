@@ -1,1 +1,1 @@
-# go1-24-tools-directive
+# go1-24-tool-directive
